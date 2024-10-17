@@ -19,4 +19,4 @@ The base namespace for everything.
 |ShutdownClient                                     |function       |                       |Closes Minecraft.              |
 |[AddClientLoadedListener](AddClientLoadedListener) |function       |                       |Call function when game loads. |
 |Ticks                                              |table          |                       |Ticks for Client and Server.   |
-|[CreateNewGUI](CreateNewGui)                       |function       |                       |Create a new GUI.              |
+|[CreateNewGUI](CreateNewGUI)                       |function       |                       |Create a new GUI.              |
