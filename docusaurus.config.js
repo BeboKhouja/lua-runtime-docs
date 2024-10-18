@@ -40,7 +40,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/BeboKhouja/lua-runtime-docs/tree/main',
         },
       }),
     ],
@@ -50,7 +50,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Lua Runtime',
         logo: {
@@ -65,7 +64,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/BeboKhouja/lua-runtime-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -82,8 +81,12 @@ const config = {
                 href: 'https://www.curseforge.com/minecraft/mc-mods/lua-runtime',
               },
               {
+                label: 'Mod Source',
+                href: 'https://github.com/BeboKhouja/Lua-Runtime-Mod',
+              },
+              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/BeboKhouja/lua-runtime-docs',
               },
             ],
           },
