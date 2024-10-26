@@ -24,6 +24,6 @@ Minecraft.Print("Hello World")
 ```
 This will print `Hello World` to the Minecraft log while the game is starting.
 
-### You don't know how to get to the .lua folder?
+### You don't know how to get to the lua folder?
 
-Press `CTRL`+`R` on your keyboard (if you are in Windows), then type in `%appdata%\.minecraft\lua`.
+Press `WIN`+`R` on your keyboard (if you are in Windows), then type in `%appdata%\.minecraft\lua`.
