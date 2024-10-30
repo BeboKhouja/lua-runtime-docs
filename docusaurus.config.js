@@ -81,6 +81,10 @@ const config = {
                 href: 'https://www.curseforge.com/minecraft/mc-mods/lua-runtime',
               },
               {
+                label: 'Modrinth',
+                href: 'https://modrinth.com/mod/lua'
+              },
+              {
                 label: 'Mod Source',
                 href: 'https://github.com/BeboKhouja/Lua-Runtime-Mod',
               },
