@@ -20,7 +20,7 @@ Now, run the game. If the mod finds that the `lua` folder does not exist in the 
 Create a file ending with `.lua`, then open it.
 Inside it, add this code:
 ```lua
-Minecraft.Print("Hello World")
+print("Hello World")
 ```
 This will print `Hello World` to the Minecraft log while the game is starting.
 
