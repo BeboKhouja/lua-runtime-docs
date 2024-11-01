@@ -11,6 +11,7 @@ This is a mod designed to make Minecraft modding easier and simpler.
 
 - Don't forget to check the source code of the script as it could be malicious. We're not responsible for any bans or damages caused by scripts.
 - The mod is still in its alpha phase, so expect bugs.
+- Sandboxing is implemented for security after versions 0.4 and above.
 
 ## Trailer
 
