@@ -12,11 +12,15 @@ It is located in `[Minecraft folder]/config/lua_runtime_config.json`.
 
 ## What each one means
 
-| Property        | Description                                                  |
-|-----------------|--------------------------------------------------------------|
-| `allowCommands` | Whether commands are allowed to run on behalf of the player. |
-| `allowChat`     | Whether scripts can chat on behalf of the player.            |
-| `urls`          | A list of URLs to be allowed, or blocked.                    |
+| Property          | Description                                                        | Default value |
+|-------------------|--------------------------------------------------------------------|---------------|
+| `allowCommands`   | Whether commands are allowed to run on behalf of the player.       | `false`       |
+| `allowChat`       | Whether scripts can chat on behalf of the player.                  | `false`       |
+| `urls`            | A list of URLs to be allowed, or blocked.                          |               |
+| `allowOpenLinks`  | Whether scripts can open links or not.                             | `true`        |
+| `allowListenChat` | If disabled, the `Minecraft.AddChatListener` event won't be fired. | `false`       |
+| `allowCopy`       | Whether scripts can copy to the clipboard or not.                  | `true`        |
+| `allowPaste`      | Whether scripts can paste from the clipboard.                      | `false`       |
 
 ## Allowing access to local IPs
 

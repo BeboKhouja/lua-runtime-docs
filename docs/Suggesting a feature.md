@@ -6,5 +6,5 @@ sidebar_position: 2
 
 Are you kind or you want to suggest a feature? Well, you can do that!
 
-If you want to suggest a feature via email, click [here](mailto:mokkachocolata@gmail.com?subject=[Lua Runtime Mod] (your question here))
+If you want to suggest a feature via email, click <a href="mailto:mokkachocolata@gmail.com?subject=[Lua Runtime] (your question here)">here</a><br>
 If you are a mod developer, and know how to use Git, open a pull request.
