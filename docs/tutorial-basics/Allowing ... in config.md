@@ -8,7 +8,8 @@ By default, Lua Runtime blocks access to running commands, accessing local IPs, 
 
 ## Getting into the config folder
 
-It is located in `[Minecraft folder]/config/lua_runtime_config.json`.
+For client, it is located in `[Minecraft folder]/config/lua_runtime_config.json`.
+For server, it is located in `[Minecraft folder]/config/lua_runtime_config_server.json`.
 
 ## What each one means
 

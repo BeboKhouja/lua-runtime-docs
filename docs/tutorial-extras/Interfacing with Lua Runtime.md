@@ -18,4 +18,4 @@ This adds Lua Runtime as a dependency for the mod.
 
 ## Adding features
 
-Then, to add features to it, call `MainClassClient.Instance.LuaInstance.AddToTable` with a `LuaValue` as an arg.
+Then, to add features to it, call `LuaRuntimeClient.Instance.LuaInstance.AddToTable` with a `LuaValue` as an arg.

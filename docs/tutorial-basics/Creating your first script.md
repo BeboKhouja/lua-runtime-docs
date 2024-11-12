@@ -9,9 +9,6 @@ Now, that you decided you want to make a script, it's time to make that happen!
 ## Preresquites
 You need the Fabric API, and this mod of course.
 The mod supports a minimum of Java 21 and Minecraft 1.21.1.
-:::info
-Currently, the server platform is unsupported, but it will be supported in the future.
-:::
 
 ## Getting started
 
